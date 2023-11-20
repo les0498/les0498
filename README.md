@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=les0498&show_icons=true&theme=cobalt)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=les0498&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=les0498)](https://solved.ac/les0498)
 
