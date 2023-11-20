@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
+<div align="center">
 <h3>:star2: Tech Stack</h3>
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -32,10 +33,13 @@ Here are some ideas to get you started:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 
-
+</div>
 <hr>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=les0498&show_icons=true&theme=cobalt)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=les0498)](https://solved.ac/les0498)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=les0498&layout=compact&theme=cobalt)
+</div>
