@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=les0498&show_icons=true&theme=cobalt)
-
-
 <hr>
 <h3>:star2: Tech Stack</h3>
 
@@ -38,6 +34,7 @@ Here are some ideas to get you started:
 
 
 <hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=les0498&show_icons=true&theme=cobalt)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=les0498)](https://solved.ac/les0498)
 
