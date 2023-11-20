@@ -1,4 +1,4 @@
-### Eunseo Lee
+<h1 align="center"> ### Eunseo Lee </h1>
 
 ## Hi there👋
 
@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=les0498)](https://github.com/anuraghazra/github-readme-stats)
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=les0498)](https://solved.ac/les0498)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=les0498&layout=compact&theme=cobalt)
 </div>
