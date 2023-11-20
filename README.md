@@ -1,4 +1,4 @@
-<h1 align="center"> ### Eunseo Lee </h1>
+<h1 align="center"> Eunseo Lee </h1>
 
 ## Hi there👋
 
