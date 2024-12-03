@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<!-- 3D 잔디 이미지 -->
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 <div align="center">
@@ -44,6 +42,11 @@ Here are some ideas to get you started:
 
 </div>
 <hr>
+
+
+<!-- 3D 잔디 이미지 -->
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
