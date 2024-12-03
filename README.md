@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EUNSEO%20LEE&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=500&section=header&text=EUNSEO%20LEE&fontSize=90" />
 
 ## Hi there👋
 
