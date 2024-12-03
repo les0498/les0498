@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 <!-- 3D 잔디 이미지 -->
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 
 
