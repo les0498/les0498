@@ -9,35 +9,24 @@ on:
         description: 'Commit message'
         required: true
         default: 'generated'
-        type: string
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub Profile 3D Contributions
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate 3D contributions
-        uses: yoshi389111/github-profile-3d-contrib@0.7.0
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
       - name: Set up Git
         run: |
-          git config --global user.name "EunseoLEE"
-          git config --global user.email "les0498@naver.com"
-
-      - name: Pull remote changes with rebase
-        run: |
-          git pull origin main --rebase || true
-
-      - name: Commit & Push changes
+          git config user.name "EunseoLEE"
+          git config user.email "les0498@naver.com"
+      - name: Pull remote changes
+        run: git pull origin main --rebase || true
+      - name: Commit & Push
         run: |
           git add -A .
           git commit -m "${{ github.event.inputs.commit_message }}" || echo "No changes to commit"
           git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
